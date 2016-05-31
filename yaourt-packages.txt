@@ -1,3 +1,5 @@
+yaourt -Qm
+
 local/aafm-git 20140930-1
 local/acestream-engine 3.0.5.1-1
 local/android-bash-completion 20131016-1
